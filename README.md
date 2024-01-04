@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vincent.
 - 👀 I’m interested in algorithms and machine learning.
 - 💻 I am now majoring in software engineering.
-- 🌱 I’m currently learning I am now studying *Introduction to Algorithms*.
+- 🌱 I’m currently learning *Introduction to Algorithms*.
 - 💞️ I’m looking to collaborate on [leetcode](https://leetcode-cn.com/).
 
 <!---
